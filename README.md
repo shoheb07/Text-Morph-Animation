@@ -40,7 +40,7 @@ text-morph-animation/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/text-morph-animation.git
+git clone https://github.com/your-shoheb07/text-morph-animation.git
 cd text-morph-animation
 
 2. Run Console Version
